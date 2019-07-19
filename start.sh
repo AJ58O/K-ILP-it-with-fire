@@ -25,6 +25,7 @@ npm install -g ilp-protocol-spsp
 npm install -g tf-connector
 npm install -g ilp-store-memory
 npm install -g moneyd
+npm install -g moneyd-uplink-xrp
 npm install -g ilp-spsp
 npm install -g ilp-spsp-server
 npm install -g ilp-plugin-ethereum
